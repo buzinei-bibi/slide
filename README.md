@@ -2,7 +2,7 @@
 
 **unbound + dns blocklist + regras de firewall: uma rede mais segura, sem instalar nada nos aparelhos.**
 
-[**▶ ver a apresentação online**](https://bloqueio-dns.onrender.com/)
+[**▶ ver a apresentação online**](https://slide-sh3p.onrender.com)
 
 </div>
 
